@@ -1,0 +1,13 @@
+>>> import numpy as np
+>>> from numpy import array
+>>> from numpy import arange
+>>> from numpy import asarray
+>>> from numpy import asmatrix
+>>> from numpy import asmatrix
+>>> from numpy import asarray
+>>> from numpy import asmatrix
+>>> from numpy import asmatrix
+>>> from numpy import asarray
+>>> from numpy import asmatrix
+>>> from numpy import asmatrix
+>>> from numpy import asarray

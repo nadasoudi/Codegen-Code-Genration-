@@ -1,0 +1,10 @@
+def second_most_repeated_word(string):
+    string = string.lower()
+    string = string.replace(" ", "")
+    string = string.replace(".", "")
+    string = string.replace(",", "")
+    string = string.replace("!", "")
+    string = string.replace("?", "")
+    string = string.replace(";", "")
+    string = string.replace("!", "")
+    string = string.replace(".", "")

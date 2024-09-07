@@ -1,0 +1,14 @@
+>>> import math
+>>> def f(x):
+...     return math.sin(x)
+>>> def g(x):
+...     return math.cos(x)
+>>> def h(x):
+...     return math.tan(x)
+>>> def i(x):
+...     return math.sinh(x)
+>>> def j(x):
+...     return math.cosh(x)
+>>> def k(x):
+...     return math.tanh(x)
+>>> def l(x):

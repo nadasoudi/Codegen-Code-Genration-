@@ -1,0 +1,11 @@
+def main():
+    print("Enter the source code of the program to be copied:")
+    source = input()
+    print("Enter the destination code of the copied source code:")
+    destination = input()
+    print("Enter the name of the file to be copied:")
+    name = input()
+    print("Enter the name of the file to be copied:")
+    name2 = input()
+    print("Enter the name of the file to be copied:")
+    name3 = input()

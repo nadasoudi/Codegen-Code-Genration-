@@ -1,0 +1,8 @@
+1. Create a file named "myfile.txt"
+2. Create a directory named "mydir"
+3. Create a file named "myfile.txt"
+4. Move the file "myfile.txt" to the directory "mydir"
+5. Move the file "myfile.txt" to the directory "mydir"
+6. Move the file "myfile.txt" to the directory "mydir"
+7. Move the file "myfile.txt" to the directory "mydir"
+8. Move the file "
